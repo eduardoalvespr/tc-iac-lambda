@@ -3,5 +3,5 @@ variable "aws_region" {
 }
 
 variable "aws_iam_role" {
-  default = "arn:aws:iam::717145188069:role/LabRole"
+  default = "arn:aws:iam::560780136692:role/LabRole"
 }
